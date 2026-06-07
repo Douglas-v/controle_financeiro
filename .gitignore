@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+env/
+*.env
+.DS_Store
+
+# IDEs
+.vscode/
+.idea/
+
+# Dados e Modelos Locais
+# Ignoramos pkl e csv gerados localmente que não fazem parte do mock (se o usuário gerar os próprios)
+# Para o mock inicial nós vamos commitar os dados fictícios, mas podemos adicionar exceções se precisarmos
+# *.csv
+# *.xlsx
+# *.pkl
+
+# Logs
+*.log
