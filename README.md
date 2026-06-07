@@ -35,7 +35,7 @@ controle_financeiro/
 ### 1. Clonando o Repositório
 
 ```bash
-git clone https://github.com/SEU_USUARIO/controle_financeiro.git
+https://github.com/Douglas-v/controle_financeiro.git
 cd controle_financeiro
 ```
 
@@ -113,7 +113,3 @@ Sinta-se à vontade para realizar *forks*, criar *branches* para novas *features
 3. Faça o Commit de suas mudanças (`git commit -m 'feat: Minha nova feature'`)
 4. Faça o Push para a Branch (`git push origin feature/MinhaFeature`)
 5. Abra um Pull Request
-
-## 📄 Licença
-
-Distribuído sob a licença MIT. Veja `LICENSE` para mais informações.
